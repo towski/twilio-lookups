@@ -1,6 +1,8 @@
 # twilio-lookups
 
-Steal code from twilio-ruby and break out a gem for just lookups. Because I need lookups but can't update my twilio-ruby
+Check if an SMS is valid
+
+Stolen code from twilio-ruby broken out in a separate gem. Because I need lookups but can't update my twilio-ruby
 
 Yes the namespacing is terrible. 
 
