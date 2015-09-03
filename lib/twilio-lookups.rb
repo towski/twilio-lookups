@@ -8,7 +8,7 @@ require 'base64'
 require 'forwardable'
 require 'jwt'
 
-require 'twilio-lookups/version' unless defined?(Twilio::VERSION)
+require 'twilio-lookups/version' unless defined?(TwilioLookups::VERSION)
 require 'twilio-lookups/util'
 require 'twilio-lookups/rest/utils'
 require 'twilio-lookups/rest/errors'
